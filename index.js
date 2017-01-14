@@ -77,7 +77,7 @@ class Tabs extends Component {
 var styles = StyleSheet.create({
     tabbarView: {
         position:'absolute',
-        bottom:0,
+        top:0,
         right:0,
         left:0,
         height:50,
